@@ -1,0 +1,21 @@
+#fd {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  background-color: #eaecef;
+  border-radius: 3px;
+  padding: 100px;
+  margin: 10px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+h2 {
+  text-align: center;
+}
